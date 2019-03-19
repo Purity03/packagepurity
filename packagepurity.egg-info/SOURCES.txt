@@ -1,0 +1,10 @@
+README.md
+setup.py
+packagepurity/__init__.py
+packagepurity/recursion.py
+packagepurity/sorting.py
+packagepurity.egg-info/PKG-INFO
+packagepurity.egg-info/SOURCES.txt
+packagepurity.egg-info/dependency_links.txt
+packagepurity.egg-info/requires.txt
+packagepurity.egg-info/top_level.txt
